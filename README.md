@@ -1,2 +1,1 @@
-# uuMangawy.github.io
-Building tools for minds in unusual states.
+# uumangawy.github.io
